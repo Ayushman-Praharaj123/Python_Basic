@@ -1,5 +1,6 @@
+#chek a number is prime is not 
 n = int(input("Enter N: "))
-
+  
 for num in range(2, n + 1):
     is_prime = True
 
